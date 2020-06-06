@@ -2,4 +2,10 @@
 |git status| |查看编写区文件数量 |
 |git log |  |查看修改记录|
 |git add 文件名 | |将工作区文件保存到暂存区|
+<<<<<<< HEAD
 |git clone 仓库名| |将远程仓库克隆下来|
+=======
+|git push origin master| |将本地文件进行上传|
+|git push origin -u master| |第一次上传文件|
+
+删除一些东西，我尝试新的实验。
